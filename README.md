@@ -24,3 +24,4 @@ Giải mã: P = (C − k mod 26) (P, C = chỉ số 0..25 của chữ A..Z)
 
 # Cách phá (không cần khóa)
 Brute force: thử tất cả 26 dịch chuyển. Nếu văn bản dài: tấn công tần suất (frequency analysis) — so sánh tần suất chữ trong bản mã với phân bố tiếng Anh.
+
